@@ -29,11 +29,11 @@ I'm Daniel, currently working as a PhD bioinformatician at the CIBERINFEC Bioinf
 
 ### Let's take a look at my stats:
 
-![GitHub Sreak](https://github-readme-streak-stats.herokuapp.com/?user=Daniel-VM&theme=gruvbox&hide_border=true)
+![GitHub Sreak](https://github-readme-streak-stats.herokuapp.com/?user=Daniel-VM&theme=gruvbox&hide_border=true) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daniel-VM&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
+
 
 ![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-VM&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daniel-VM&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
 
 
 
