@@ -19,13 +19,12 @@ Hello,
 
 I'm Daniel, currently working as a PhD bioinformatician at the CIBERINFEC Bioinformatics Platform.
 
-- 🔭 I’m currently working on HPC testing and setup, bioinformatics pipelines, and surveillance web platforms.
+- 🔭 I’m currently working on HPC, bioinformatics pipelines, and building API for survilleance purposes.
 - 🌱 I’m learning about Django Framework and managerial roles in bioinformatics.
 - 👯 I’m looking to collaborate data management and front end development (dashboards).  
 - 🤔 I’m looking for help with Django framework.
 - 💬 Feel free to ask me about anything related to bioinformatics (and ...).
 - 📫 How to reach me: Issues, PRs and ...
-- ⚡ Fun fact: Late-night coding sessions are my favorite! 🌙💻
 
 ### Let's take a look at my stats:
 
