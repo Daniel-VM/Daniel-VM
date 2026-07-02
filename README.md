@@ -26,11 +26,19 @@ I'm Daniel, currently working as a PhD bioinformatician at the CIBERINFEC Bioinf
 - 💬 Feel free to ask me about anything related to bioinformatics (and ...).
 - 📫 How to reach me: Issues, PRs and ...
 
+### 🛠️ Tecnologías y Herramientas
+
+![Python](https://shields.io)
+![Django API REST](https://shields.io)
+![Nextflow](https://shields.io)
+![Linux](https://shields.io)
+
 ### Let's take a look at my stats:
 
-![GitHub Sreak](https://github-readme-streak-stats.herokuapp.com/?user=Daniel-VM&theme=gruvbox&hide_border=true) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daniel-VM&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
+![GitHub Sreak](https://github-readme-streak-stats.herokuapp.com/?user=Daniel-VM&theme=gruvbox&hide_border=true)
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daniel-VM&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
 ![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-VM&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
 
 
