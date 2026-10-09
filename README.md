@@ -11,8 +11,8 @@ Bioinformatician focused on pathogen surveillance, reproducible workflows and bi
 
 <ul>
   <li>🔭 Building Nextflow pipelines, APIs and HPC-based bioinformatics platforms.</li>
-  <li>🧪 Interested in public health genomics, automation and scalable data analysis.</li>
-  <li>💬 Ask me about bioinformatics, Nextflow, HPC, Python or pathogen surveillance.</li>
+  <li>🧪 Interested in health genomics, automation and scalable data analysis.</li>
+  <li>💬 Ask me about bioinformatics, Nextflow, HPC, Python or genomics/bioinformatics infrastructure.</li>
 </ul>
 
 </td>
