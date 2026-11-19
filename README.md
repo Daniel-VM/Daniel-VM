@@ -18,10 +18,6 @@
 
 ## 👋 Who I Am
 
-<table align="center">
-  <tr>
-    <td valign="top" width="55%">
-
 <h3>Hi, I'm Daniel 🧬</h3>
 
 <p>
@@ -36,8 +32,9 @@ Bioinformatician focused on <b>pathogen surveillance</b>, <b>reproducible workfl
   <li>💬 Ask me about bioinformatics, Nextflow, HPC, Python, AI agents or genomics infrastructure.</li>
 </ul>
 
-</td>
-<td valign="top" width="45%">
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
 
 <h3>🛠️ Tech Stack</h3>
 
@@ -67,25 +64,24 @@ Bioinformatician focused on <b>pathogen surveillance</b>, <b>reproducible workfl
 </p>
 
 </td>
-  </tr>
-</table>
+<td valign="top" width="50%">
 
----
+<h3>🧬 Main Interests</h3>
 
-## 🧬 Main Interests
-
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Bioinformatics-2E8B57?style=for-the-badge" alt="Bioinformatics" />
   <img src="https://img.shields.io/badge/Public%20Health%20Genomics-6A5ACD?style=for-the-badge" alt="Public Health Genomics" />
   <img src="https://img.shields.io/badge/Pathogen%20Surveillance-B22222?style=for-the-badge" alt="Pathogen Surveillance" />
-  <br/>
   <img src="https://img.shields.io/badge/Reproducible%20Workflows-4682B4?style=for-the-badge" alt="Reproducible Workflows" />
   <img src="https://img.shields.io/badge/AI%20Agents-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" />
   <img src="https://img.shields.io/badge/Digital%20Twins-FF8C00?style=for-the-badge" alt="Digital Twins" />
-  <br/>
   <img src="https://img.shields.io/badge/Life%20Science%20Infrastructure-0F766E?style=for-the-badge" alt="Life Science Infrastructure" />
   <img src="https://img.shields.io/badge/HPC%20%26%20Scalable%20Data-374151?style=for-the-badge" alt="HPC" />
 </p>
+
+</td>
+  </tr>
+</table>
 
 ---
 
@@ -153,7 +149,7 @@ flowchart LR
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/daniel-v-millares-239b27185/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/daniel-v-millares-239b27185/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 <p align="center"><i>🧬 Always happy to talk about genomics infrastructure, AI agents in the lab, or digital twins for health.</i></p>
