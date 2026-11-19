@@ -5,13 +5,6 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=900&color=2EA043&center=true&vCenter=true&width=650&lines=Pathogen+surveillance+%26+public+health+genomics+%F0%9F%A6%A0;Reproducible+Nextflow+pipelines+on+HPC+%E2%9A%99%EF%B8%8F;AI+agents+for+bioinformatics+infrastructure+%F0%9F%A4%96;Digital+twins+for+life+sciences+%F0%9F%A7%AC" alt="Typing SVG" />
 </a>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Daniel-VM&color=2ea043&style=flat-square&label=profile+views" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/Daniel-VM?style=flat-square&color=2c5364&label=followers" alt="followers"/>
-  <img src="https://img.shields.io/badge/based%20in-Spain%20🇪🇸-c60b1e?style=flat-square" alt="Spain"/>
-</p>
-
 </div>
 
 ---
